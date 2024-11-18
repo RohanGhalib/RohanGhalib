@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Rohan Ghalib  
 
-<!--
-**RohanGhalib/RohanGhalib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Full Stack Web Developer**, **Social Media Monetization Expert**, and **UI/UX Designer** with over 7 years of experience in the tech industry. My passion lies in creating seamless web applications and providing innovative solutions for businesses to grow online.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 **What I Do**  
+- **Web Development**: Proficient in **PHP**, **Laravel**, **JavaScript**, **React**, **MySQL**, and more.  
+- **Social Media**: Monetization strategies and managing online presence.  
+- **UI/UX Design**: Creating intuitive, modern, and user-friendly designs.  
+- **Crypto Solutions**: Expertise in building crypto-based platforms with custom voting systems, live rate fetching, and blockchain integrations.  
+- **Network & Cloud Infrastructure**: Building and maintaining robust systems.
+
+---
+
+### 💼 **Projects I've Built**
+- [**IntroTaps**](https://introtaps.com): A cutting-edge platform for connecting and sharing profiles.  
+- [**MineMalia**](https://minemalia.com): A unique crypto voting site.  
+- [**IdeaFy Digital**](https://ideafydigital.com): A digital solutions provider.  
+- [**IntroTaps**](https://introtaps.com): An NFC Business Cards Company.  
+
+---
+
+### 📚 **Skills**
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript, React.  
+- **Backend**: PHP, Laravel, Node.js.  
+- **Database**: MySQL, MongoDB.  
+- **Tools**: Git, Docker, Postman.  
+- **Design**: Figma, Adobe XD, Photoshop.
+
+---
+
+### 🔗 **Connect with Me**  
+- **Website**: [Portfolio](https://rohanghalib.me)  
+- **LinkedIn**: [Muhammad Rohan Ghalib](https://www.linkedin.com/in/rohanghalib) 
+- **Email**: [muhammadrohanghalib@gmail.com](mailto:muhammadrohanghalib@gmail.com)
+
+---
+
+
+### ✨ **Open to Collaborations**
+If you're looking for someone to help with **web development**, **crypto solutions**, or **UI/UX design**, feel free to reach out! Let's build something amazing together.
