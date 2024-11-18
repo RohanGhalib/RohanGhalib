@@ -25,8 +25,8 @@ I am a **Full Stack Web Developer**, **Social Media Monetization Expert**, and *
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript, React.  
 - **Backend**: PHP, Laravel, Node.js.  
 - **Database**: MySQL, MongoDB.  
-- **Tools**: Git, Docker, Postman.  
-- **Design**: Figma, Adobe XD, Photoshop.
+- **Tools**: Git, Postman, VsCode.  
+- **Design**: Figma, Photoshop, Illustrator.
 
 ---
 
