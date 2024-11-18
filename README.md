@@ -14,10 +14,11 @@ I am a **Full Stack Web Developer**, **Social Media Monetization Expert**, and *
 ---
 
 ### 💼 **Projects I've Built**
-- [**IntroTaps**](https://introtaps.com): A cutting-edge platform for connecting and sharing profiles.  
-- [**MineMalia**](https://minemalia.com): A unique crypto voting site.  
-- [**IdeaFy Digital**](https://ideafydigital.com): A digital solutions provider.  
 - [**IntroTaps**](https://introtaps.com): An NFC Business Cards Company.  
+- [**MineMalia**](https://minemalia.com): A unique crypto voting site.  
+- [**IdeaFy Digital**](https://ideafydigital.com): A digital solutions provider.
+- [**CoinListz**](https://coinlistz.com): A Crypto Voting Site.  
+
 
 ---
 
