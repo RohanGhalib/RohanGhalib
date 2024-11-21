@@ -1,3 +1,5 @@
+<img src="https://rohanghalib.me/banner.png">
+
 # 👋 Hi, I'm Muhammad Rohan Ghalib  
 
 I am a **Full Stack Web Developer**,  and **UI/UX Designer** with over 7 years of experience in the tech industry. My passion lies in creating seamless web applications and providing innovative solutions for businesses to grow online.  
