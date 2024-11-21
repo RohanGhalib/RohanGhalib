@@ -1,4 +1,4 @@
-<img src="https://rohanghalib.me/banner.pn">
+<img src="https://rohanghalib.me/banner.png">
 
 # 👋 Hi, I'm Muhammad Rohan Ghalib  
 
