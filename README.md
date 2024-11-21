@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Muhammad Rohan Ghalib  
 
-I am a **Full Stack Web Developer**, **Social Media Monetization Expert**, and **UI/UX Designer** with over 7 years of experience in the tech industry. My passion lies in creating seamless web applications and providing innovative solutions for businesses to grow online.  
+I am a **Full Stack Web Developer**,  and **UI/UX Designer** with over 7 years of experience in the tech industry. My passion lies in creating seamless web applications and providing innovative solutions for businesses to grow online.  
 
 ---
+[![RohanGhalib's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohanGhalib)](https://github.com/RohanGhalib/github-readme-stats)
 
 ### 🌟 **What I Do**  
 - **Web Development**: Proficient in **PHP**, **Laravel**, **JavaScript**, **React**, **MySQL**, and more.  
