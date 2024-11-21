@@ -1,8 +1,8 @@
 <img src="https://rohanghalib.me/githubcover.png">
 
-# 👋 Hi, I'm Muhammad Rohan Ghalib  
+# Hey! I'm Rohan Ghalib and I love to play with code.
 
-I am a **Full Stack Web Developer**,  and **UI/UX Designer** with over 7 years of experience in the tech industry. My passion lies in creating seamless web applications and providing innovative solutions for businesses to grow online.  
+I am a **Full Stack Web Developer**,  **UI/UX Designer**, **Graphic Designer**, **Co Founder <a href="https://introtaps.com">@IntroTaps</a>** and **Cloud Infrastructure Expert** with over 7 years of experience in the tech industry. My passion lies in creating seamless web applications and providing innovative solutions for businesses to grow online.  
 
 ---
 
