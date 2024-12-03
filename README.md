@@ -1,4 +1,4 @@
-<img src="https://rohanghalib.me/githubcover.png](https://github.com/RohanGhalib/RohanGhalib/blob/main/githubcover.png?raw=true)">
+<img src="https://github.com/RohanGhalib/RohanGhalib/blob/main/githubcover.png?raw=true">
 
 #  Hey! I'm Rohan Ghalib and I love to play with code.
 
