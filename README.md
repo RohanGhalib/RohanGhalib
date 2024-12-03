@@ -1,14 +1,15 @@
 <img src="https://rohanghalib.me/githubcover.png">
 
-# Hey! I'm Rohan Ghalib and I love to play with code.
+#  Hey! I'm Rohan Ghalib and I love to play with code.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,cloudflare,ai,ps,discord)](https://rohanghalib.me)
 
-I am a **Full Stack Web Developer**,  **UI/UX Designer**, **Graphic Designer**, **Co Founder <a href="https://introtaps.com">@IntroTaps</a>** and **Cloud Infrastructure Expert** with over 7 years of experience in the tech industry. My passion lies in creating seamless web applications and providing innovative solutions for businesses to grow online.  
+
+I am a 16 year old **Hack Clubber**, **Full Stack Web Developer**,  **UI/UX Designer**, **Graphic Designer**, **Co Founder <a href="https://introtaps.com">@IntroTaps</a>** and **Cloud Infrastructure Expert** with over 7 years of experience in the tech industry. My passion lies in creating seamless web applications and providing innovative solutions for businesses to grow online.  
 
 ---
 
-### 🌟 **What I Do**  
+### **What I Do**  
 - **Web Development**: Proficient in **PHP**, **Laravel**, **JavaScript**, **React**, **MySQL**, and more.  
 - **Social Media**: Monetization strategies and managing online presence.  
 - **UI/UX Design**: Creating intuitive, modern, and user-friendly designs.  
