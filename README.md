@@ -2,7 +2,7 @@
 
 # Hey! I'm Rohan Ghalib and I love to play with code.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,cloudflare,ai,ps)](https://rohanghalib.me)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,cloudflare,ai,ps,discord)](https://rohanghalib.me)
 
 I am a **Full Stack Web Developer**,  **UI/UX Designer**, **Graphic Designer**, **Co Founder <a href="https://introtaps.com">@IntroTaps</a>** and **Cloud Infrastructure Expert** with over 7 years of experience in the tech industry. My passion lies in creating seamless web applications and providing innovative solutions for businesses to grow online.  
 
