@@ -24,15 +24,6 @@ Currently serving as a Co Founder at <a href="https://introtaps.com">IntroTaps <
 
 ---
 
-### 💼 **Projects I've Built**
-- [**IntroTaps**](https://introtaps.com): An NFC Business Cards Company.  
-- [**MineMalia**](https://minemalia.com): A unique crypto voting site.  
-- [**IdeaFy Digital**](https://ideafydigital.com): A digital solutions provider.
-- [**CoinListz**](https://coinlistz.com): A Crypto Voting Site.  
-
-
----
-
 ### 📚 **Skills**
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript, React.  
 - **Backend**: PHP, Laravel, Node.js.  
